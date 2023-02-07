@@ -1,0 +1,15 @@
+total 64
+drwxrwxrwx+ 5 vscode root    4096 Feb  7 18:49 .
+drwxr-xrwx+ 4 vscode root    4096 Feb  7 17:05 ..
+drwxrwxrwx+ 2 vscode root    4096 Feb  7 17:05 .devcontainer
+drwxrwxrwx+ 8 vscode root    4096 Feb  7 18:47 .git
+drwxrwxrwx+ 3 vscode root    4096 Feb  7 17:05 .github
+-rw-rw-rw-  1 vscode root    1845 Feb  7 17:05 .gitignore
+-rw-rw-rw-  1 vscode root   11357 Feb  7 17:05 LICENSE
+-rw-rw-rw-  1 vscode root    1162 Feb  7 17:05 README.md
+-rw-rw-rw-  1 vscode root     269 Feb  7 18:49 bash_profile
+-rw-r--r--  1 vscode vscode  5398 Feb  7 18:07 bashrc
+-rw-rw-rw-  1 vscode root     103 Feb  7 17:05 environment.yml
+-rwxrwxrwx  1 vscode root     146 Feb  7 17:05 install.sh
+-rw-rw-rw-  1 vscode vscode     0 Feb  7 18:50 lla.txt
+-rw-rw-rw-  1 vscode root    1125 Feb  7 17:05 test.py
